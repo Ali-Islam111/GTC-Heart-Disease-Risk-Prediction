@@ -1,0 +1,16 @@
+Best parameters found:  {'svm__C': 100, 'svm__gamma': 0.001, 'svm__kernel': 'rbf'}
+Tuned Pipeline Accuracy: 0.8689
+Precision: 0.8125
+Recall: 0.9286
+F1-score: 0.8667
+AUC Score: 0.9600
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.93      0.82      0.87        33
+           1       0.81      0.93      0.87        28
+
+    accuracy                           0.87        61
+   macro avg       0.87      0.87      0.87        61
+weighted avg       0.88      0.87      0.87        61
