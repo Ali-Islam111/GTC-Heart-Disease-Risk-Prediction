@@ -8,6 +8,11 @@ The Final Project of the GTC Machine Learning Internship that predicts heart dis
 https://www.canva.com/design/DAG0AqCMFGE/YDVwuiIJjpIkyoXfbCeoGg/edit?utm_content=DAG0AqCMFGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
+## 📹 Demo Video:
+https://drive.google.com/file/d/1bdSyFYLScatsLacx6i5Czd3NhzIuNESv/view?usp=sharing
+
+---
+
 ## 🔍 Project phases
 Short summary of what we did in the project:
 
